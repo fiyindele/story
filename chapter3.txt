@@ -1,3 +1,7 @@
-Wow, we've come a long way!
+<<<<<<< HEAD
+Wow, we've come a long way, switching to remote repositories!
 
 Keep going, we'll get there!
+=======
+Wow, we've come a long way, switching to remote repositories!
+>>>>>>> udemy-story
